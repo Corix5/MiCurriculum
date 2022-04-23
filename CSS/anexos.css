@@ -1,0 +1,48 @@
+
+main{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+.foto{
+    width: 220px;
+    height: 280px;
+}
+
+h2{
+    color: white;
+}
+
+li{
+    color: white;
+}
+
+.hobbie1{
+    width: 370px;
+    height: 220px;
+}
+
+.hobbie2{
+    width: 350px;
+    height: 260px;
+}
+
+.hobbie3{
+    width: 350px;
+    height: 300px;
+}
+
+.parrafos{
+    text-align: justify;
+}
+
+.AcercaDeMi{
+    align-items: center;
+}
+
+.navbarRight {
+    margin-left: 70%;
+}
+
