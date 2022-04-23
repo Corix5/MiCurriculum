@@ -47,7 +47,7 @@ p {
   	display: block;
 	  width: 100%;
 	  max-width: 800px; 
-	  height: 80%;
+	  height: 70%;
 }
 
 button{
@@ -73,4 +73,20 @@ footer {
 
 figure{
 	margin-top: 35px;
+}
+
+header ul li{
+	list-style: none;
+	margin-left: 25px;
+	margin-top: 15px;
+	float: left;
+}
+
+header ul li a{
+	text-decoration: none;
+	color: white;
+}
+
+.navbarRight {
+    margin-left: 70%;
 }
